@@ -5,6 +5,15 @@ class CommunityImagesSection extends StatelessWidget {
   final List<String> netImagesList = [
     'https://cdn.pixabay.com/photo/2016/12/13/05/15/puppy-1903313_1280.jpg',
     'https://cdn.pixabay.com/photo/2016/11/22/23/13/dog-1851107_1280.jpg',
+    'https://pixabay.com/photos/dog-pet-animal-domestic-dog-canine-7858450',
+    'https://cdn.pixabay.com/photo/2019/08/19/07/45/corgi-4415649_1280.jpg',
+    'https://cdn.pixabay.com/photo/2016/11/21/14/47/kitten-1845789_1280.jpg',
+    'https://cdn.pixabay.com/photo/2016/11/23/18/06/dog-1854119_1280.jpg',
+    'https://cdn.pixabay.com/photo/2016/11/22/23/13/dog-1851107_1280.jpg',
+    'https://cdn.pixabay.com/photo/2020/11/24/17/54/dog-5773397_1280.jpg',
+    'https://cdn.pixabay.com/photo/2019/09/21/18/58/dog-4494554_1280.jpg',
+    'https://cdn.pixabay.com/photo/2020/08/12/09/42/dog-5482171_1280.jpg'
+
   ];
 
   @override
